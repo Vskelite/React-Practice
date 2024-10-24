@@ -27,8 +27,6 @@ function App() {
       </UserContext.Provider>
       
     </div>
-      
-    
   )
 }
 

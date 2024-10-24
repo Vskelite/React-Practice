@@ -19,5 +19,4 @@ const ChildC = () => {
     </div>
   )
 }
-
 export default ChildC
