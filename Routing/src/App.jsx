@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div>
-      <h1>Jai Ganesh</h1>
+      <h1>Jai Shree Ganesh</h1>
     </div>
   )
 }
