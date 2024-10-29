@@ -1,4 +1,4 @@
-
+import { createBrowserRouter, RouterProvider} from 'react-router-dom'
 import './App.css'
 
 import {createBrowserRouter,RouterProvider,} from "react-router-dom";
@@ -45,7 +45,7 @@ function App() {
 
   return (
     <div>
-     <RouterProvider router={router}/>
+      <h1>Jai Ganesh</h1>
     </div>
   )
 }
